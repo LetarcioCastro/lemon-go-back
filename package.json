@@ -1,0 +1,14 @@
+{
+  "name": "lemon_go_back",
+  "version": "2.0.0",
+  "description": "API mock do app do vendedor (Contato Inteligente v2.0.0)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.0"
+  }
+}
